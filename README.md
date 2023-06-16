@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://bettergpt.chat" target="_blank"><img src="icons/origin/voice-AI-icon.png" alt="VoiceChatsAI" width="100" /></a>
+    <a target="_blank"><img src="icons/voice-AI-icon.png" alt="VoiceChatsAI" width="100" /></a>
 </p>
 
 # 语音交互AI
